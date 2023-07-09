@@ -1,0 +1,39 @@
+1. pc has floppy disk. two EIDE and one EIDE DVD. which two connector should i use for power supply
+ (molex and berg)
+2. user has gaming pc. with hdd standart EIDE 5400RPM. he want to update it to open faster games. 
+from this options which one in more durable, 
+faster and need less energy: SSD, 7200RPM EIDE, 7200RPM SATA, 10000RPM SATA
+(SSD)
+3. Raid 0+1 technology discs massive
+(min. 4 discs)
+4. რა ეწოდება თავაკის შეცდიმების შედეგად წარმოქმნილ შეცდომებ მყარ დისკზე
+(soft bad blocks/in software, hard bad blocks/phyisical)
+5. რომელია ლეპტოპის დედაპლატის მახასიათებელი?
+(ლეპტოპის დედაპლატის ფორმფაქტორები ეკუთვნის მწარმოებელს, დაპატენტებულია)
+6. კვების ბლოკის გახსნისას რა საფრთხე ემუქრება ტექნიკოსს?
+(შოკი შენახული დიდი ვოლტაჟისგან)
+7. which is the most important part of computer which is used for making televisian TV commercials and musical videos.
+ choose answer: special video and audio adapter, additional DIN-6 port, additional PS/2 port,
+ special mouse and audio adapter, VGA adapter?
+(special video and audio adapter)
+8. წამში რამდენად ხშირად ხდება განახლება?
+Refresh Rate
+9. როგორ შეგვიძლია დავიცვათ თავი დენის ცვალებადობისგან?
+(UPS)
+10. which one is most important when we make workstation for virtual machines?
+(quantity of proccessors)
+11. ლეპტოპის ეკრანი არის ინტეგრირებული:
+(lcd or led)
+12. PCIe 256Mb/ Asus/ EN7300GT/SILENT/HTD/256M 7300GT DVI/TB 128bit.
+(მოცემულ მეხსიერებას აქვს გრაფიკული პროცესორი,
+ეს დივაისი ვიდეო ადაპტერია,
+ვიდეოკარტას უკავშირდება 128ბიტიანი არხით,
+თავსებადია კომპ. სისტემასთან თუ აქვს PCIe X16 სლოტი)
+13. ერთი კაბელი ციფრული და აუდიო სიგნალებისთვის?
+HDMI
+14. მყარი დისკის ლელტოპზე გარედან დაყენება?
+(eSATA)
+15. რა ტიპის კვების ბლოკზეა ინტეგრირებული კაბელები, რომლის შეცვლაც დაშლის გარეშე არ შეგვიძლია?
+(Non-modular)
+16. Raid 10.
+min 4hdd
